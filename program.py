@@ -1,2 +1,2 @@
-# sdfafdsf
 print('My first git program!!!!')
+# Me (c) 2017
